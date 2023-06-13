@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+article {
+  display: block;
+  border: 2px solid rgb(7, 57, 255);
+  border-radius: 8px;
+  width: 200px;
+  padding: 5px;
+  background: linear-gradient(90deg, rgb(131, 215, 218) 0%, rgba(114, 204, 123, 0.763) 100%);
+}
+p {
+    text-align: center;
+}
